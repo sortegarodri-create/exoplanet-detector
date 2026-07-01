@@ -35,6 +35,6 @@ app/
 
 Curvas de luz obtenidas por la misión **Kepler** de la NASA mediante la librería **Lightkurve**.
 
-## Estado del proyecto
+## Primer contacto con los datos
 
-🟢 Día 2 completado.
+En esta fase se han descargado y explorado las primeras curvas de luz reales de la misión Kepler utilizando la librería Lightkurve. El objetivo ha sido comprender la estructura de los datos antes de comenzar cualquier proceso de limpieza o modelado.
